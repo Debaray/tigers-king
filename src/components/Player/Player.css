@@ -1,0 +1,22 @@
+.player{
+    border: 1px solid black;
+    border-radius: 5px;
+    height: 400px;
+    text-align: center;
+
+}
+.image-setup{
+    height:200px;
+    
+}
+.card-setup{
+    background-color: gray;
+}
+.main-button{
+    background-color: goldenrod;
+    width: 150px;
+    height: 30px;
+    border : 1px solid darkgray;
+    border-radius: 5px;
+    cursor: pointer;
+}

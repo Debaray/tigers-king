@@ -1,0 +1,14 @@
+.all-player{
+    display: flex;
+}
+.player-container{
+    width:70%;
+    margin-left: 20px;
+    margin-right: 5px;
+    border-right: 1px solid lightgray;
+}
+.single-player{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 5px;
+}
