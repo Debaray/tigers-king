@@ -1,6 +1,6 @@
 # Tigers King
 
-This project was bootstrapped with React.js and css.
+This project was bootstrapped with React and CSS.
 
 ## Feature
 
